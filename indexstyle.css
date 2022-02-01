@@ -1,0 +1,42 @@
+
+.Maincontainer{
+    width: 80%;
+    height: 80%;
+
+}
+span{
+    color: blue;
+}
+body{
+    background-image: url("images/blog.jpg ");
+    padding-left: 20px;
+    padding-top: 20px;
+    width: 80%;
+   background-color: rgb(197, 230, 241);
+    background-repeat: no-repeat;
+    margin:auto;
+
+}
+.homebutton{
+    position:absolute;
+    top: 65%;
+    left: 40%;
+    height: 50px;
+    background-color: rgb(121, 238, 136) ;
+    border-radius: 20px;
+}
+nav{
+
+
+}
+nav button{
+    width: 100px;
+    height: 30px;
+    
+}
+.welcome{
+    position:absolute;
+    top:40%;
+    left:40%
+
+}

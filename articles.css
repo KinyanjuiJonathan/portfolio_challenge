@@ -1,0 +1,12 @@
+
+body{
+    background-color: chartreuse;
+    
+}
+.article{
+    border:blue 3px;
+    padding-left: 20px;
+    padding-top: 20px;
+    width: 80%;
+    height: 80%;
+}
